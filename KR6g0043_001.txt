@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:05:07.864284
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:10
 #+TITLE: 佛垂般涅槃略說教誡經
 #+PROPERTY: CBETA_ID T12n0389
 #+PROPERTY: ID KR6g0043
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 389
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6g0043_T_000-1110c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6g0043_T_001-1110c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.389¶
-
- 《佛垂般涅槃略說教誡經》(亦名遺教經)¶
+No. 389¶
+《佛垂般涅槃略說教誡經》(亦名遺教經)¶
 ¶
 後秦龜茲國三藏鳩摩羅什¶
 奉　詔譯¶
@@ -158,7 +157,7 @@ No.389¶
 下、閑處靜室，念所受法勿令忘失，常當自勉¶
 精進修之，無為空死後致憂悔。我如良醫，知¶
 病說藥，服與不服，非醫咎也。又如善導，導人¶
-善導，聞之不行，非導過也，汝等若於苦等四¶
+善道，聞之不行，非導過也，汝等若於苦等四¶
 諦有所疑者，可疾問之，無得懷疑不求決也。」¶
 
 爾時世尊如是三唱，人無問者。所以者何？眾¶
